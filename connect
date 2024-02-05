@@ -1,0 +1,22 @@
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+DATABASE_URL="postgres://postgres.qoczdgjpsuvhyliigzwb:vOS1mva1SIRggg20@aws-0-ap-southeast-1.pooler.supabase.com:5432/postgres"
+
+GITHUB_ID=58d5efa94fe501c67641
+GITHUB_SECRET=0bfe3c3f40db71f7ecd2d9dc60f554f11db61444
+
+GOOGLE_CLIENT_ID=73416520080-plf703eanbmhj3r9kksfj358asg3tm04.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+
+EMAIL_SERVER_USER=resend
+EMAIL_SERVER_PASSWORD=re_GmjRoXa7_2B5FbpnMm5qRH6XaaJcf3Rxn
+EMAIL_SERVER_HOST=smtp.resend.com
+EMAIL_SERVER_PORT=465
+EMAIL_FROM=onboarding@resend.dev
+# EMAIL_FROM=mamlyhua@gmail.com
+
+NEXT_AUTH_URL=SXT6pD+1CU3YLpD9Gvs0ibtmVj5nvGLz
